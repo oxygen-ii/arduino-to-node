@@ -1,0 +1,27 @@
+{
+  "name": "arduino-to-node",
+  "version": "1.0.0",
+  "description": "``` npm install ``` # Run ``` npx nodemon app.js ``` # Stop Running \\<Control\\> + \\<C\\>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamteamteaDEV/arduino-to-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamteamteaDEV/arduino-to-node/issues"
+  },
+  "homepage": "https://github.com/TeamteamteaDEV/arduino-to-node#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4",
+    "nodemon": "^2.0.12"
+  }
+}
